@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What is the name of Morty's high school crush?",
+    "answers": ["Beth", "Jessica", "Summer"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "What is Rick's last name?",
+    "answers": ["Sanchez", "Gomez", "Smith"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "What is Morty's sister's name? ",
+    "answers": ["Jessica", "Winter", "Summer"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "What is the 'Rickyest Rick? ",
+    "answers": ["C-137", "C-635", "C-37"],
+    "correctAnswer": 0
+  },
+  {
+    "question": " Where do the Smith's live ",
+    "answers": ["Earth", "Unity Planet", "Anatomy Park"],
+    "correctAnswer": 0
+  }
+]
